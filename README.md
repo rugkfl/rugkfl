@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&height=100&text=Hello%20I'm%20Gyung%20Ha&fontAlign=50&stroke=00FF00&color=auto)
+![header](https://capsule-render.vercel.app/api?type=Venom&height=100&text=Hello%20I'm%20Gyung%20Ha&fontAlign=50&stroke=00FF00&color=auto) 👋
 
 <div align="center">
 <h2>:books: Tech stack :books:</h2>
